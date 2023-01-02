@@ -1,2 +1,3 @@
 # JS101_Learning_Javascript
-first repo
+first repo 
+updated from macbook
